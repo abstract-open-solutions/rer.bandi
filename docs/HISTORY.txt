@@ -4,7 +4,8 @@ Changelog
 2.2.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- compatibility with plone5
+  [ekulos]
 
 
 2.2.5 (2017-03-28)
